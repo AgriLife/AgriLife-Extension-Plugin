@@ -8,3 +8,5 @@
 4. Activate Advanced Custom Fields 5.0+ or Pro
 5. Activate AgriLife Core Plugin
 6. Activate this plugin
+
+#plugin is used to inject footer elements into agrilifeextension instead of agriflex3 theme. 
